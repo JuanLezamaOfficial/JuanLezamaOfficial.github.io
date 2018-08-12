@@ -12,7 +12,6 @@ Official site for announces and update news.
 
 ## Support
 
-- *Paypal* 
 - *Kickstarter* [https://www.kickstarter.com/profile/juanlezama](https://www.kickstarter.com/profile/juanlezama)
 - *Patreon* [https://www.patreon.com/juanlezama](https://www.patreon.com/juanlezama)
 - *BTC* [1GovR3GBbMvEFyYKDQSZ5PdSKP5y8TLwUb](1GovR3GBbMvEFyYKDQSZ5PdSKP5y8TLwUb)
@@ -39,7 +38,7 @@ Official site for announces and update news.
 
 ## Jekyll
 
-[Jekyll](https://jekyllrb.com) Jekyll is a simple, blog-aware, static site generator.
+[Jekyll](https://jekyllrb.com) is a simple, blog-aware, static site generator.
 
 ## Cayman theme
 
