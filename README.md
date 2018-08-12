@@ -1,9 +1,11 @@
 # FAQ
 
 
+
 ## About
 
 Official site for announces and update news.
+
 
 
 ## Content
@@ -13,6 +15,7 @@ Official site for announces and update news.
 - *Vlog* [http://youtube.com/user/juanlezamaoficial](http://youtube.com/user/juanlezamaoficial)
 
 
+
 ## Support
 
 - *Kickstarter* [https://www.kickstarter.com/profile/juanlezama](https://www.kickstarter.com/profile/juanlezama)
@@ -20,33 +23,48 @@ Official site for announces and update news.
 - *BTC* [1GovR3GBbMvEFyYKDQSZ5PdSKP5y8TLwUb](1GovR3GBbMvEFyYKDQSZ5PdSKP5y8TLwUb)
 
 
-## Social
+
+## News
 
 - *Twitter* [https://twitter.com/juanlezama](https://twitter.com/juanlezama)
+
+
+## Social
+
 - *LinkedIn* [https://www.linkedin.com/in/juanlezama](https://www.linkedin.com/in/juanlezama)
-- *Reddit* [https://www.reddit.com/user/juanlezamaoficial/](https://www.reddit.com/user/juanlezamaoficial)
-- *Discord* [https://discord.gg/hbTPnsh](https://discord.gg/hbTPnsh)
+
+
 
 ## Forum
 
-- [http://juanlezama.foroactivo.com](http://juanlezama.foroactivo.com)
+- *Discord* [https://discord.gg/hbTPnsh](https://discord.gg/hbTPnsh)
+- *Reddit* [https://www.reddit.com/user/juanlezamaoficial/](https://www.reddit.com/user/juanlezamaoficial)
+
 
 ## Contact
 
 - :e-mail: juanlezama.info.ve@gmail.com
 - :mailbox_with_mail: A.P 01 - Z.P 5115, Venezuela.
 
+
+
 ## GitHub Pages
 
 [GitHub Pages](https://pages.github.com). Websites for you and your projects. Hosted directly from your GitHub repository. Just edit, push, and your changes are live.
+
+
 
 ## Jekyll
 
 [Jekyll](https://jekyllrb.com) is a simple, blog-aware, static site generator.
 
+
+
 ## Cayman
 
 [Cayman](https://github.com/jasonlong/cayman-theme) is a clean, responsive theme for GitHub Pages. This theme is available as an option if you use the Automatic Page Generator or you can copy the template and styles to use on your own.
+
+
 
 ## License
 
