@@ -26,7 +26,7 @@ Official site for announces and update news.
 
 ## Forum
 
-- 
+- [http://juanlezama.foroactivo.com](http://juanlezama.foroactivo.com)
 
 ## Contact
 
