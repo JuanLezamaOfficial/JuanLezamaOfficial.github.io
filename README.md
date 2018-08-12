@@ -6,18 +6,18 @@ Official site for announces and update news.
 
 ## Content
 
-- *Bitchute* []()
-- :cd: [http://www.meztizo.com.ve/](http://www.meztizo.com.ve)
-- *Steemit* [https://steemit.com/@juanlezama](https://steemit.com/@juanlezama)
-- *Viuly* []()
-- *Youtube* [http://youtube.com/user/juanlezamaoficial](http://youtube.com/user/juanlezamaoficial)
+- *Vlog* []()
+- *Mlog* [http://www.meztizo.com.ve](http://www.meztizo.com.ve)
+- *Blog* [https://steemit.com/@juanlezama](https://steemit.com/@juanlezama)
+- *Vlog* []()
+- *Vlog* [http://youtube.com/user/juanlezamaoficial](http://youtube.com/user/juanlezamaoficial)
 
 ## Support
 
 - *Paypal* 
-- *Kickstarter* [https://www.kickstarter.com/profiles/juanlezama](https://www.kickstarter.com/profiles/juanlezama)
+- *Kickstarter* [https://www.kickstarter.com/profile/juanlezama](https://www.kickstarter.com/profile/juanlezama)
 - *Patreon* [https://www.patreon.com/juanlezama](https://www.patreon.com/juanlezama)
-- *BTC* [1GovR3GBbMvEFyYKDQSZ5PdSKP5y8TLwUb](bitcoin:1GovR3GBbMvEFyYKDQSZ5PdSKP5y8TLwUb)
+- *BTC* [1GovR3GBbMvEFyYKDQSZ5PdSKP5y8TLwUb](1GovR3GBbMvEFyYKDQSZ5PdSKP5y8TLwUb)
 
 ## Social
 
