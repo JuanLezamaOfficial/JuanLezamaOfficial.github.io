@@ -1,8 +1,10 @@
 # FAQ
 
+
 ## About
 
 Official site for announces and update news.
+
 
 ## Content
 
@@ -10,18 +12,20 @@ Official site for announces and update news.
 - *Blog* [https://steemit.com/@juanlezama](https://steemit.com/@juanlezama)
 - *Vlog* [http://youtube.com/user/juanlezamaoficial](http://youtube.com/user/juanlezamaoficial)
 
+
 ## Support
 
 - *Kickstarter* [https://www.kickstarter.com/profile/juanlezama](https://www.kickstarter.com/profile/juanlezama)
 - *Patreon* [https://www.patreon.com/juanlezama](https://www.patreon.com/juanlezama)
 - *BTC* [1GovR3GBbMvEFyYKDQSZ5PdSKP5y8TLwUb](1GovR3GBbMvEFyYKDQSZ5PdSKP5y8TLwUb)
 
+
 ## Social
 
 - *Twitter* [https://twitter.com/juanlezama](https://twitter.com/juanlezama)
 - *LinkedIn* [https://www.linkedin.com/in/juanlezama](https://www.linkedin.com/in/juanlezama)
 - *Reddit* [https://www.reddit.com/user/juanlezamaoficial/](https://www.reddit.com/user/juanlezamaoficial)
-- *Discord* []()
+- *Discord* [https://discord.gg/hbTPnsh](https://discord.gg/hbTPnsh)
 
 ## Forum
 
@@ -40,7 +44,7 @@ Official site for announces and update news.
 
 [Jekyll](https://jekyllrb.com) is a simple, blog-aware, static site generator.
 
-## Cayman theme
+## Cayman
 
 [Cayman](https://github.com/jasonlong/cayman-theme) is a clean, responsive theme for GitHub Pages. This theme is available as an option if you use the Automatic Page Generator or you can copy the template and styles to use on your own.
 
