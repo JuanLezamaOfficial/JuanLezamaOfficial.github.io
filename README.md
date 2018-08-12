@@ -6,10 +6,8 @@ Official site for announces and update news.
 
 ## Content
 
-- *Vlog* []()
-- *Mlog* [http://www.meztizo.com.ve](http://www.meztizo.com.ve)
+- *Blog* [http://www.meztizo.com.ve](http://www.meztizo.com.ve)
 - *Blog* [https://steemit.com/@juanlezama](https://steemit.com/@juanlezama)
-- *Vlog* []()
 - *Vlog* [http://youtube.com/user/juanlezamaoficial](http://youtube.com/user/juanlezamaoficial)
 
 ## Support
@@ -23,6 +21,8 @@ Official site for announces and update news.
 
 - *Twitter* [https://twitter.com/juanlezama](https://twitter.com/juanlezama)
 - *LinkedIn* [https://www.linkedin.com/in/juanlezama](https://www.linkedin.com/in/juanlezama)
+- *Reddit* [https://www.reddit.com/user/juanlezamaoficial/](https://www.reddit.com/user/juanlezamaoficial)
+- *Discord* []()
 
 ## Forum
 
