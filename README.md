@@ -22,8 +22,8 @@ Official site for announces and update news.
 
 
 - *Kickstarter* [https://www.kickstarter.com/profile/juanlezama](https://www.kickstarter.com/profile/juanlezama)
+- *Liberapay* [https://liberapay.com/juanlezama](https://liberapay.com/juanlezama)
 - *Patreon* [https://www.patreon.com/juanlezama](https://www.patreon.com/juanlezama)
-- *BTC* 1GovR3GBbMvEFyYKDQSZ5PdSKP5y8TLwUb
 
 
 
