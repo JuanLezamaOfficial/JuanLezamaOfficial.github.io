@@ -46,7 +46,7 @@ Official site for announces and update news.
 
 
 - *Discord* [https://discord.gg/hbTPnsh](https://discord.gg/hbTPnsh)
-- *Reddit* [https://www.reddit.com/user/juanlezamaoficial/](https://www.reddit.com/user/juanlezamaoficial)
+- *Reddit* [https://www.reddit.com/user/juanlezamaoficial](https://www.reddit.com/user/juanlezamaoficial)
 
 
 
