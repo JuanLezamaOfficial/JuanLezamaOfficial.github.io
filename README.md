@@ -1,4 +1,4 @@
-# FAQ
+# juanlezamaofficial.github.io
 
 
 
@@ -24,7 +24,7 @@ Official site for announces and update news.
 - *Kickstarter* [https://www.kickstarter.com/profile/juanlezama](https://www.kickstarter.com/profile/juanlezama)
 - *Liberapay* [https://liberapay.com/juanlezama](https://liberapay.com/juanlezama)
 - *Patreon* [https://www.patreon.com/juanlezama](https://www.patreon.com/juanlezama)
-- *Paypal*: [https://paypal.me/juanlezamaofficial](https://paypal.me/juanlezamaofficial)
+- *Paypal* [https://paypal.me/juanlezamaofficial](https://paypal.me/juanlezamaofficial)
 
 
 
