@@ -50,6 +50,20 @@ Official site for announces and update news.
 
 
 
+## Community
+
+
+- *Google+* [https://goo.gl/wQxZpS](https://goo.gl/wQxZpS)
+
+
+
+## Fanpage
+
+
+- *Facebook* [https://www.facebook.com/juanlezamaoficial](https://www.facebook.com/juanlezamaoficial)
+
+
+
 ## Contact
 
 
