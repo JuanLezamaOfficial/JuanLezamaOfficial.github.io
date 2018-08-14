@@ -1,7 +1,7 @@
 # juanlezamaofficial.github.io
 
 
-Activist, Kabbalah entrepreneur, Startup entrepreneur
+Activist, Kabbalah enthusiast, Startup entrepreneur
 
 
 
