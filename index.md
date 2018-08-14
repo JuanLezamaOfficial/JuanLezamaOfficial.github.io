@@ -1,6 +1,9 @@
 ---
 layout: default
+published: true
 ---
+
+Hola !!!
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
