@@ -71,8 +71,8 @@ Official site for announces and update news.
 ## Contact
 
 
-- :e-mail: juanlezama.info.ve@gmail.com
-- :mailbox_with_mail: A.P 01 - Z.P 5115, Venezuela.
+- *Email* juanlezama.info.ve@gmail.com
+- *Mailbox* A.P 01 - Z.P 5115, Venezuela.
 
 
 
