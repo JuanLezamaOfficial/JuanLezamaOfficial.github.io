@@ -83,17 +83,10 @@ Official site for announces and update news.
 
 
 
-## Jekyll
+## Markdown
 
 
-[Jekyll](https://jekyllrb.com) is a simple, blog-aware, static site generator.
-
-
-
-## Cayman
-
-
-[Cayman](https://github.com/jasonlong/cayman-theme) is a clean, responsive theme for GitHub Pages. This theme is available as an option if you use the Automatic Page Generator or you can copy the template and styles to use on your own.
+Markdown is a way to write content for the web. Welcome to the Markdown Here [wiki!.](https://github.com/adam-p/markdown-here/wiki)
 
 
 
