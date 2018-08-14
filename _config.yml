@@ -4,7 +4,7 @@ description: Activist, Kabbalah enthusiast, Starup entrepreneur # this means to 
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "/juanlezamaofficial.github.io" # the subpath of your site, e.g. /blog
 url: "https://juanlezamaofficial.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: juanlezama #if your site has a twitter account, enter it here
 
