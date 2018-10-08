@@ -1,7 +1,7 @@
 # Juan Lezama
 
 
-Activist, Kabbalah enthusiast, Startup entrepreneur
+Singer songwriter
 
 
 
