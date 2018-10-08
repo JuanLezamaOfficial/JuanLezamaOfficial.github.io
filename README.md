@@ -1,7 +1,7 @@
 # juanlezamaofficial.github.io
 
 
-Activist, Kabbalah enthusiast, Startup entrepreneur
+Singer songwriter
 
 
 
