@@ -57,7 +57,7 @@ Official site for announces and update news.
 ## Community
 
 
-- *Google+* [https://goo.gl/wQxZpS](https://goo.gl/wQxZpS)
+- *Telegram* [https://t.me/joinchat/G5N45RXNtr_CUNgB9xJgXA](https://t.me/joinchat/G5N45RXNtr_CUNgB9xJgXA)
 
 
 
