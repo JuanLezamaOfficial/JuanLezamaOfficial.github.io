@@ -15,7 +15,7 @@ Official site for announces and update news.
 ## Content
 
 
-- *Site* [https://www.meztizo.com.ve](http://www.meztizo.com.ve)
+- *Products* [https://www.meztizo.com.ve](https://meztizomusic.blogspot.com)
 - *Blog* [https://steemit.com/@juanlezama](https://steemit.com/@juanlezama)
 - *Vlog* [https://youtube.com/user/juanlezamaoficial](http://youtube.com/user/juanlezamaoficial)
 - *Repository* [https://github.com/JuanLezamaOfficial](https://github.com/JuanLezamaOfficial)
