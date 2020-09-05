@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: juanlezamaofficial.github.io
+Token: da1020d44db5c4d881f5d55255671b07f5fb79bf98defdfad14211e4697d8826
