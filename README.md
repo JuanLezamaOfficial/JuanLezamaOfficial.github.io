@@ -22,17 +22,10 @@ Official site for announces and update news.
 
 
 
-## News
+## Community
 
 
-- *Twitter* [https://twitter.com/juanlezama](https://twitter.com/juanlezama)
-
-
-
-## Social
-
-
-- *LinkedIn* [https://www.linkedin.com/in/juanlezama](https://www.linkedin.com/in/juanlezama)
+- *Telegram* [https://t.me/joinchat/G5N45RXNtr_CUNgB9xJgXA](https://t.me/joinchat/G5N45RXNtr_CUNgB9xJgXA)
 
 
 
@@ -44,10 +37,18 @@ Official site for announces and update news.
 
 
 
-## Community
+## Contact
 
 
-- *Telegram* [https://t.me/joinchat/G5N45RXNtr_CUNgB9xJgXA](https://t.me/joinchat/G5N45RXNtr_CUNgB9xJgXA)
+- :e-mail: juanlezama.info.ve@gmail.com
+- :mailbox_with_mail: A.P 01 - Z.P 5115, Venezuela.
+
+
+
+## News
+
+
+- *Twitter* [https://twitter.com/juanlezama](https://twitter.com/juanlezama)
 
 
 
@@ -58,11 +59,10 @@ Official site for announces and update news.
 
 
 
-## Contact
+## Social
 
 
-- :e-mail: juanlezama.info.ve@gmail.com
-- :mailbox_with_mail: A.P 01 - Z.P 5115, Venezuela.
+- *LinkedIn* [https://www.linkedin.com/in/juanlezama](https://www.linkedin.com/in/juanlezama)
 
 
 
