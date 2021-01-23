@@ -22,16 +22,6 @@ Official site for announces and update news.
 
 
 
-## Support
-
-
-- *Kickstarter* [https://www.kickstarter.com/profile/juanlezama](https://www.kickstarter.com/profile/juanlezama)
-- *Liberapay* [https://liberapay.com/juanlezama/](https://liberapay.com/juanlezama/)
-- *Patreon* [https://www.patreon.com/juanlezama](https://www.patreon.com/juanlezama)
-- *Paypal* [https://paypal.me/juanlezamaofficial](https://paypal.me/juanlezamaofficial)
-
-
-
 ## News
 
 
@@ -73,6 +63,16 @@ Official site for announces and update news.
 
 - *Email* [juanlezama.info.ve@gmail.com](juanlezama.info.ve@gmail.com)
 - *Mailbox* A.P 01 - Z.P 5115, Venezuela.
+
+
+
+## Support
+
+
+- *Kickstarter* [https://www.kickstarter.com/profile/juanlezama](https://www.kickstarter.com/profile/juanlezama)
+- *Liberapay* [https://liberapay.com/juanlezama/](https://liberapay.com/juanlezama/)
+- *Patreon* [https://www.patreon.com/juanlezama](https://www.patreon.com/juanlezama)
+- *Paypal* [https://paypal.me/juanlezamaofficial](https://paypal.me/juanlezamaofficial)
 
 
 
