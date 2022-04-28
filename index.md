@@ -40,8 +40,8 @@ Official site for announces and update news.
 ## Contact
 
 
-- :e-mail: juanlezama.info.ve@gmail.com
-- :mailbox_with_mail: Dpto. 01-02. Blq. 15. Los Curos. 5101. Venezuela
+- e-mail juanlezama.info.ve@gmail.com
+- mailbox_with_mail Dpto. 01-02. Blq. 15. Los Curos. 5101. Venezuela
 
 
 
