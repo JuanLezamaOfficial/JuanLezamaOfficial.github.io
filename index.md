@@ -40,7 +40,7 @@ Official site for announces and update news.
 ## Contact
 
 
-- :e-mail:juanlezama@gmail.com
+- :e-mail: juanlezama@gmail.com
 
 
 
