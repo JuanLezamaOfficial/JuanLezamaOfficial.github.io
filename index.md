@@ -40,7 +40,7 @@ Official site for announces and update news.
 ## Contact
 
 
-- eujuanlezama@gmail.com
+- - :e-mail:{uanlezama@gmail.com}(eujuanlezama@gmail.com)
 
 
 
