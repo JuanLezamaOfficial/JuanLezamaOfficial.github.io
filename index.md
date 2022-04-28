@@ -41,7 +41,6 @@ Official site for announces and update news.
 
 
 - eujuanlezama@gmail.com
-- Dpto. 01-02. Blq. 15. Los Curos. 5101. Venezuela
 
 
 
