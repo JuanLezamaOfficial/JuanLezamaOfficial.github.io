@@ -15,7 +15,7 @@ Official site for announces and update news.
 ## Content
 
 
-- *Products* [https://meztizomusic.blogspot.com](https://meztizomusic.blogspot.com)
+- *Products* [https://venezuelafolkmusic.blogspot.com](https://venezuelafolkmusic.blogspot.com)
 - *Blog* [https://steemit.com/@juanlezama](https://steemit.com/@juanlezama)
 - *Vlog* [https://youtube.com/user/juanlezamaoficial](http://youtube.com/user/juanlezamaoficial)
 - *Repository* [https://github.com/JuanLezamaOfficial](https://github.com/JuanLezamaOfficial)
